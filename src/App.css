@@ -1,0 +1,19 @@
+.app-container {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #F9F9F9;
+  border-radius: 10px;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: black;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+}
